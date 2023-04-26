@@ -1,4 +1,4 @@
-# Poster and Slides
+# Posters and Slides
 
 A repository of posters and slides that I've used in my talks and presentations.
 
