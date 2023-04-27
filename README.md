@@ -12,6 +12,7 @@ A repository of posters and slides that I've used in my talks and presentations.
 
 | Title         | Place         | Language |
 | ------------- | ------------- |----------|
+| Carolina um Córpus Geral do Português Brasileiro com Proveniência, Tipologia e Versionamento | C4AI Tech Hour 29/03/2023 🇧🇷 | Portuguese |
 | Uma Introdução ao PLN / An Introduction to NLP | C4AI Inclusion and Diversity Committee (CID) 2023 🇧🇷 | Portuguese |
 
 
